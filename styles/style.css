@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+/* ------------------------- */
+/* -----Footer------ */
+.footer-section {
+    background: #151414;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0;
+    /* margin: 130px 230px; */
+    /* gap: 130px; */
+}
+
+.future {
+    padding: 130px 230px;
+}
+
+.future-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+}
+
+.footer-description {
+    color: #FFFFFF;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+.subscribe {
+    padding: 130px 230px;
+}
+
+.subscribe-title {
+    font-weight: 600;
+    font-size: 25px;
+    color: #F8F8F8;
+}
